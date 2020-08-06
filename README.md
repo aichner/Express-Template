@@ -47,8 +47,6 @@ How to start this application?
 
 -   Use `npm install` to install all dependencies
 -   Start a local copy of the docs site with `npm start`
--   Or build a local copy of the library with `npm run build`
-
 
 ## [](#bug-and-feature-requests)Bugs and feature requests
 
@@ -100,7 +98,7 @@ those rules whenever possible.
 	</tr>
   <tr>
     <td>
-      :cat: Maintainer
+      :octocat: Maintainer
     </td>
   </tr>
 </table>
