@@ -4,7 +4,7 @@
 const express = require("express");
 
 //> Services
-// Shopify Service
+// Foo Service
 const foo = require("../services/foo.js");
 //#endregion
 
