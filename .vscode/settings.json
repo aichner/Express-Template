@@ -39,5 +39,14 @@
     "webfonts"
   ],
   "editor.tabSize": 2,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": false,
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[scss]": {
+    "editor.formatOnSave": true
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": true
+  }
 }
